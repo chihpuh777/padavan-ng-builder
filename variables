@@ -1,4 +1,4 @@
 PADAVAN_REPO=https://github.com/chihpuh777/padavan-ng-tl_c5-v4_16Mb
 PADAVAN_BRANCH=master
 PADAVAN_COMMIT=HEAD
-PADAVAN_TOOLCHAIN_URL=https://github.com/chihpuh777/padavan-ng-builder-tl_c5-v4_16Mb/releases/download/release-2026.11.04_12.48.52/toolchain_uClibc-ng-1.0.58.tar.xz
+PADAVAN_TOOLCHAIN_URL=https://github.com/nilabsent/padavan-ng-builder/releases/download/release-2026.06.08_17.14.58/toolchain_uClibc-ng-1.0.58.tar.xz
